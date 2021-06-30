@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HARSHITHBEJJAM
-- 👀 I’m interested in Data science
+- 👀  Data scientist,Neuroscience
 - 🌱 I’m currently learning Python MYSQL
-- 💞️ I’m looking to collaborate on MACHINE LEARNING Projects
+- 💞️ I’m looking to collaborate on MACHINE LEARNING and Deep Learning Projects
 - 📫 How to reach me - Harshith.bejjam@gmail.com
 - LinkedIn-https://www.linkedin.com/in/harshith-bejjam/
 
